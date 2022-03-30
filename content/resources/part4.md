@@ -4,6 +4,7 @@ description: This resource gives information on vorticity and streamline curvatu
   circulation and vorticity, definition of circulation and examine velocity gradient.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-540-internal-flows-in-turbomachines-spring-2006/4dbf0d1c293f12954450dcde8f71fd0f_part4.pdf
 file_type: application/pdf
+parent_uid: 7855efef-bd04-44c5-81f6-c22962ae860c
 resourcetype: Document
 title: part4.pdf
 uid: 4dbf0d1c-293f-1295-4450-dcde8f71fd0f
